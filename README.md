@@ -7,4 +7,4 @@ Noga Alon のエルデシュ数は 1 である ( https://doi.org/10.1007/BF02187
 
 ## Functional programming
 
-The design of a pretty-printing library ( https://doi.org/10.1007/3-540-59451-5_3 )
+[Hughes95] The design of a pretty-printing library ( https://doi.org/10.1007/3-540-59451-5_3 )
