@@ -11,3 +11,11 @@ Noga Alon のエルデシュ数は 1 である (エルデシュとの共著論�
 ## Functional programming
 
 [Hughes95] The design of a pretty-printing library ( https://doi.org/10.1007/3-540-59451-5_3 )
+
+
+## 海賊版の文献にアクセスする方法
+
+! 以下のサイトにアクセスしてはいけない．
+
+1. Sci-Hub https://sci-hub.se | https://sci-hub.st | https://sci-hub.ru
+2. Library Genesis+ https://libgen.li | https://libgen.gs | https://libgen.lc
