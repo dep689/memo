@@ -15,7 +15,7 @@ Noga Alon のエルデシュ数は 1 である (エルデシュとの共著論�
 
 ## 海賊版の文献にアクセスする方法
 
-! 以下のサイトにアクセスしてはいけない．
+! 以下のサイトにアクセスしては**いけない**．
 
 1. Sci-Hub (DOIで検索する) https://sci-hub.se | https://sci-hub.st | https://sci-hub.ru
 2. Library Genesis+ (ISBNなどで検索する) https://libgen.li | https://libgen.gs | https://libgen.lc
