@@ -6,14 +6,14 @@ Noga Alon のエルデシュ数は 1 である (エルデシュとの共著論�
 
 ## 時系列分析
 
-- 線形カルマンフィルタの基礎 ( https://doi.org/10.11499/sicejl.56.632 )
-- 慶應大学講義 応用確率論
-  - 第13回 ベイズの方法 カルマンフィルタ(1) https://youtu.be/P85JCE3tZWY
-  - 第14回 ベイズの方法 カルマンフィルタ(2) https://youtu.be/g3JIQVavoNk
+- [ ] 線形カルマンフィルタの基礎 ( https://doi.org/10.11499/sicejl.56.632 )
+- [ ] 慶應大学講義 応用確率論
+  - [ ] 第13回 ベイズの方法 カルマンフィルタ(1) https://youtu.be/P85JCE3tZWY
+  - [ ] 第14回 ベイズの方法 カルマンフィルタ(2) https://youtu.be/g3JIQVavoNk
 
 ## Functional programming
 
-[Hughes95] The design of a pretty-printing library ( https://doi.org/10.1007/3-540-59451-5_3 )
+- [ ] [Hughes95] The design of a pretty-printing library ( https://doi.org/10.1007/3-540-59451-5_3 )
 
 
 ## 海賊版の文献にアクセスする方法
