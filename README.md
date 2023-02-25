@@ -6,6 +6,8 @@ Noga Alon のエルデシュ数は 1 である (エルデシュとの共著論�
 
 ## 時系列分析
 
+カルマンフィルタが提案されたのは R. E. Kalman の論文 ( https://scholar.google.jp/scholar?cluster=5225957811069312144 )．
+
 - [ ] https://www.kalmanfilter.net
 - [ ] 線形カルマンフィルタの基礎 ( https://doi.org/10.11499/sicejl.56.632 )
 - [ ] 慶應大学講義 応用確率論
