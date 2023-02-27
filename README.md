@@ -4,6 +4,12 @@ Ramanujan graph が定義されたのは A. Lubotzky, R. Phillips & P. Sarnak (1
 
 Noga Alon のエルデシュ数は 1 である (エルデシュとの共著論文 https://doi.org/10.1007/BF02187731 )．
 
+### 確認
+
+- [ ] On the Paley graph of a quadratic character https://doi.org/10.48550/arXiv.2212.02005
+- [ ] On the eigenvalues of the graphs D(5,q) https://doi.org/10.48550/arXiv.2207.04629
+
+
 ## 時系列分析
 
 カルマンフィルタが提案されたのは R. E. Kalman の論文 ( https://scholar.google.jp/scholar?cluster=5225957811069312144 )．
