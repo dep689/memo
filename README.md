@@ -20,6 +20,15 @@ Noga Alon のエルデシュ数は 1 である (エルデシュとの共著論�
   - [ ] 第13回 ベイズの方法 カルマンフィルタ(1) https://youtu.be/P85JCE3tZWY
   - [ ] 第14回 ベイズの方法 カルマンフィルタ(2) https://youtu.be/g3JIQVavoNk
 
+## Linux (CentOS Stream 9)
+
+### 環境変数の設定
+
+`~/.bash_profile` に `export NAME="value"` の形式で記入する．
+変数にはシェル変数と環境変数があり，環境変数を設定するためにはシェル変数を `export` する必要がある．
+`~/.bash_profile` は bash がログインシェルとして起動したときに実行される．
+
+
 ## Julia 言語
 
 ### Jupyter Notebook に Julia のカーネルを追加する方法
