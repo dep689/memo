@@ -34,7 +34,7 @@ Noga Alon のエルデシュ数は 1 である (エルデシュとの共著論�
 
 ## Julia 言語
 
-### Jupyter Notebook に Julia のカーネルを追加する方法
+### Jupyter Notebook (Jupyter Lab) に Julia のカーネルを追加する方法
 
 ```Julia
 julia> ]
