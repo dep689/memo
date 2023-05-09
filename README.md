@@ -6,7 +6,7 @@
 - Xiao-Dong Zhang, "The Laplacian eigenvalues of graphs: a survey" ( https://doi.org/10.48550/arXiv.1111.2897 )
 
 Ramanujan graph の例
-- Payley graph
+- Payley graph (有限体とその上の二次指標から定義されるループのない単純無向グラフ)
 
 ### 確認
 
