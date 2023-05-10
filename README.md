@@ -6,6 +6,8 @@
 - Xiao-Dong Zhang, "The Laplacian eigenvalues of graphs: a survey" ( https://doi.org/10.48550/arXiv.1111.2897 )
 
 Ramanujan graph の例
+- 2-正則連結グラフ
+- 完全グラフ
 - Payley graph (有限体とその上の二次指標から定義されるループのない単純無向グラフ．強正則グラフの例でもある．特殊な場合はCayleyグラフでもある．)
 
 ### 確認
