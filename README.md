@@ -10,6 +10,10 @@ Ramanujan graph の例
 - 完全グラフ
 - Payley graph (有限体とその上の二次指標から定義されるループのない単純連結グラフ．強正則グラフの例でもある．特殊な場合はCayleyグラフでもある．)
 
+Expander族の構成
+- Margulis 1973
+- 
+
 ### 確認
 
 - [ ] On the Paley graph of a quadratic character https://doi.org/10.48550/arXiv.2212.02005
