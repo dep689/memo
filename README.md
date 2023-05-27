@@ -11,7 +11,7 @@ Ramanujan graph の例
 - Payley graph (有限体とその上の二次指標から定義されるループのない単純連結グラフ．強正則グラフの例でもある．特殊な場合はCayleyグラフでもある．)
 
 Expander族の構成
-- Margulis 1973
+- Margulis 1973 (アフィン変換群の表現論?)
 - 
 
 ### 確認
