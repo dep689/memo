@@ -19,6 +19,10 @@ Expander族の構成
 - [ ] On the Paley graph of a quadratic character https://doi.org/10.48550/arXiv.2212.02005
 - [ ] On the eigenvalues of the graphs D(5,q) https://doi.org/10.48550/arXiv.2207.04629
 
+### 有限距離空間（位相空間）
+
+- マグニチュードホモロジー
+  - [講義ノート](http://www.math.titech.ac.jp/~kgomi/slides/mh.pdf) | [LP](http://www.math.titech.ac.jp/~kgomi/talk_j.html)
 
 ### 固有値の数値解法
 
