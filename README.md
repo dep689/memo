@@ -14,6 +14,11 @@ Expander族の構成
 - Margulis 1973 (アフィン変換群の表現論?)
 - 
 
+Integral Circulant Graphs
+- arithmetic features
+- Ramanujan property
+- energy of graphs
+
 ### 確認
 
 - [ ] On the Paley graph of a quadratic character https://doi.org/10.48550/arXiv.2212.02005
