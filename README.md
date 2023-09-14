@@ -85,7 +85,7 @@ Kernel → Change Kernel
 
 おもしろい！
 
-- Research (無料) Rabbit https://researchrabbitapp.com/
+- Research Rabbit (無料) https://researchrabbitapp.com/
 - Connected Papers (無料 5グラフ/月) https://www.connectedpapers.com/
 
 ## 海賊版の文献にアクセスする方法
