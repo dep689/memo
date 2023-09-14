@@ -81,6 +81,11 @@ Kernel → Change Kernel
 
 - [ ] [Hughes95] The design of a pretty-printing library ( https://doi.org/10.1007/3-540-59451-5_3 )
 
+## 論文の引用関係をグラフ化してくれるサイト
+
+おもしろい！
+
+- Connected Papers https://www.connectedpapers.com/
 
 ## 海賊版の文献にアクセスする方法
 
