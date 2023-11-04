@@ -3,6 +3,14 @@
 - Opera [official](https://www.opera.com)
 - Google Chrome [official](https://www.google.co.jp/chrome/)
 
+# browser extension
+
+- uBlacklist [official](https://iorate.github.io/ublacklist/docs)
+
+# search engine
+
+- DuckDuckGo (https://duckduckgo.com)
+
 # text editor
 
 - Visual Studio Code [official](https://code.visualstudio.com)
