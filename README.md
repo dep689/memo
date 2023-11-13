@@ -80,6 +80,10 @@ Kernel → Change Kernel
 > IRkernel::installspec()
 ```
 
+## Deno
+
+即席ファイルサーバー！ https://docs.deno.com/runtime/tutorials/file_server
+
 ## Functional programming
 
 - [ ] [Hughes95] The design of a pretty-printing library ( https://doi.org/10.1007/3-540-59451-5_3 )
