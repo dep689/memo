@@ -60,9 +60,15 @@ Integral Circulant Graphs
 
 ### Jupyter Notebook (Jupyter Lab) に Julia のカーネルを追加する方法
 
-```Julia
+```shell
 julia> ]
 pkg> add IJulia
+```
+これでも Jupyter にカーネルが追加されてないときは、IJulia パッケージをビルドするといいかも
+(MSストア版の Julia でこの状況になった)
+```shell
+julia> using Pkg
+julia> Pkg.build("IJulia")
 ```
 
 ### 既存の Notebook の Julia のバージョンを変更する方法
